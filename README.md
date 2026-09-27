@@ -10,8 +10,7 @@ Bipartite network model built using Bipartite Network Modelling Framework. The d
 •	Die praktische Umsetzung dieser Arbeit unter terrestrischen Bedingungen weist ein hohes Potenzial auf; die Einführung einer russischsprachigen Benutzeroberfläche erweitert den Kreis ihrer Nutzer.
 •	Diese Forschungsarbeit ist für das Ökosystem der Erde von kritischer Bedeutung, und die russischsprachige Lokalisierung gewährleistet die Zugänglichkeit der gewonnenen Ergebnisse.
 
-**WRITTEN WITH OPTIONS [Untitled-1-Manual-Entry.ipynb](https://github.com/user-attachments/files/32676196/Untitled-1-Manual-Entry.ipynb)
-GIVEN BY GOOGLE GEMINI AI **
+**WRITTEN WITH OPTIONS, TEXT MESSAGES GIVEN BY GOOGLE GEMINI AI **
 
 OPTION 1:
 "Modern space-based observations and technocentric models often alienate localized, traditional worldviews. To bridge the divide between contemporary technological progress ('Father Orbit') and ancestral ecological stewardship ('Mother Earth'), data must be democratized rather than gatekept by language. Therefore, auf globaler Ebene ist diese Arbeit von großer praktischer Bedeutung; dabei ermöglicht die Bereitstellung eines russischsprachigen Zugangs, deren Anwendbarkeit zu erweitern."
@@ -19,7 +18,7 @@ OPTION 1:
 OPTION 2:
 "Progressive spatial analytics need not conflict with indigenous preservation frameworks. Instead, modern technical platforms can act as interpreters for terrestrial needs. Within this synthesis, diese Forschungsarbeit ist für das Ökosystem der Erde von kritischer Bedeutung, und die russischsprachige Lokalisierung gewährleistet die Zugänglichkeit der gewonnenen Ergebnisse, ensuring that progress serves local custodianship."
 **
-INTRODUCTION PROTOTYPE GIVEN BY GOOGLE GEMINI AI:**
+INTRODUCTION PROTOTYPE TEXT GIVEN BY GOOGLE GEMINI AI:**
 
 English Version
 "Conceived as an open-access bridge between ancestral terrestrial custodianship (Mother Earth) and modern spatial data systems (Father Orbit), this prototype is independently published to ensure immediate, decentralized application.Core Impact: On a global scale, this work holds significant practical importance; furthermore, providing Russian-language access expands its cross-border applicability."
