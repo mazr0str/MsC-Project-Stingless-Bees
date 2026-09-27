@@ -21,13 +21,13 @@ OPTION 2:
 **INTRODUCTION PROTOTYPE TEXT GIVEN BY GOOGLE GEMINI AI:**
 
 English Version
-"Conceived as an open-access bridge between ancestral terrestrial custodianship (Mother Earth) and modern spatial data systems (Father Orbit), this prototype is independently published to ensure immediate, decentralized application.Core Impact: On a global scale, this work holds significant practical importance; furthermore, providing Russian-language access expands its cross-border applicability."
+"Conceived as an open-access bridge between ancestral terrestrial custodianship (Mother Earth) and modern spatial data systems (Father Orbit), this prototype is independently published to ensure immediate, decentralized application. Core Impact: On a global scale, this work holds significant practical importance; furthermore, providing Russian-language access expands its cross-border applicability."
 
 German Version
-"Konzipiert als frei zugängliche Brücke zwischen traditioneller terrestrischer Bewahrung (Mutter Erde) und modernen orbitalen Datensystemen (Vater Orbit), wird dieser Prototyp unabhängig veröffentlicht, um eine sofortige, dezentrale Anwendung zu ermöglichen.Kernwirkung: Auf globaler Ebene ist diese Arbeit von großer praktischer Bedeutung; dabei ermöglicht die Bereitstellung eines russischsprachigen Zugangs, deren Anwendbarkeit zu erweitern."
+"Konzipiert als frei zugängliche Brücke zwischen traditioneller terrestrischer Bewahrung (Mutter Erde) und modernen orbitalen Datensystemen (Vater Orbit), wird dieser Prototyp unabhängig veröffentlicht, um eine sofortige, dezentrale Anwendung zu ermöglichen. Kernwirkung: Auf globaler Ebene ist diese Arbeit von großer praktischer Bedeutung; dabei ermöglicht die Bereitstellung eines russischsprachigen Zugangs, deren Anwendbarkeit zu erweitern."
 
 Russian Version
-"Этот общедоступный прототип разработан как связующее звено между бережным сохранением земных экосистем (Мать-Земля) и современными космическими данными (Отец-Орбита); он публикуется независимо для немедленного и свободного применения.Главный эффект: В глобальном масштабе данная работа имеет важное практическое значение; при этом обеспечение русскоязычного доступа позволяет расширить её применимость."
+"Этот общедоступный прототип разработан как связующее звено между бережным сохранением земных экосистем (Мать-Земля) и современными космическими данными (Отец-Орбита); он публикуется независимо для немедленного и свободного применения. Главный эффект: В глобальном масштабе данная работа имеет важное практическое значение; при этом обеспечение русскоязычного доступа позволяет расширить её применимость."
 
 
 **PROJECT MANIFESTO & OPEN SOURCE DISCLOSURE* (SEE PATENT ISSUE):**
@@ -42,8 +42,9 @@ Abstract / Einleitung / Аннотация:
 🇩🇪 German: Konzipiert als frei zugängliche Brücke zwischen traditioneller terrestrischer Bewahrung (Mutter Erde) und modernen orbitalen Datensystemen (Vater Orbit), wird dieser Prototyp unabhängig veröffentlicht, um eine sofortige, dezentrale Anwendung zu ermöglichen. Auf globaler Ebene ist diese Arbeit von großer praktischer Bedeutung; dabei ermöglicht die Bereitstellung eines russischsprachigen Zugangs, deren Anwendbarkeit zu erweitern.
 
 🇷🇺 Russian: Этот общедоступный прототип разработан как связующее звено между бережным сохранением земных экосистем (Мать-Земля) и современными космическими данными (Отец-Орбита); он публикуется независимо для немедленного и свободного применения. В глобальном масштабе данная работа имеет важное практическое значение; при этом обеспечение русскоязычного доступа позволяет расширить её применимость.
-**
-Usage License:** This code is fully open-source. It is released specifically for independent developers, researchers, and creators who wish to deploy, modify, and apply these systems freely without institutional gatekeeping.
+
+**Usage License:** This code is fully open-source. It is released specifically for independent developers, researchers, and creators who wish to deploy, modify, and apply these systems freely without institutional gatekeeping.
+
 {
  "cells": [
   {
