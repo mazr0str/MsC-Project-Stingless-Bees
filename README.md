@@ -17,8 +17,8 @@ OPTION 1:
 
 OPTION 2:
 "Progressive spatial analytics need not conflict with indigenous preservation frameworks. Instead, modern technical platforms can act as interpreters for terrestrial needs. Within this synthesis, diese Forschungsarbeit ist für das Ökosystem der Erde von kritischer Bedeutung, und die russischsprachige Lokalisierung gewährleistet die Zugänglichkeit der gewonnenen Ergebnisse, ensuring that progress serves local custodianship."
-**
-INTRODUCTION PROTOTYPE TEXT GIVEN BY GOOGLE GEMINI AI:**
+
+**INTRODUCTION PROTOTYPE TEXT GIVEN BY GOOGLE GEMINI AI:**
 
 English Version
 "Conceived as an open-access bridge between ancestral terrestrial custodianship (Mother Earth) and modern spatial data systems (Father Orbit), this prototype is independently published to ensure immediate, decentralized application.Core Impact: On a global scale, this work holds significant practical importance; furthermore, providing Russian-language access expands its cross-border applicability."
