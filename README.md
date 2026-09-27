@@ -1,5 +1,5 @@
 # MsC-Project-Stingless-Bees
-Bipartite network model built using Bipartite Network Modelling Framework. The developed DivABNet as submitted for MsC (Master of Science) fulfillment is registered under an active patent through Universiti Teknologi Mara, the author holds 10% of the patent.
+Bipartite network model built using Bipartite Network Modelling Framework. The developed DivABNet as submitted for MsC (Master of Science) fulfillment is registered under an active patent through Universiti Teknologi Mara, the author holds 10% of the patent. The code is developed with in-built code editor of VSCode and Jupyter Notebook. The author does own troubleshooting where capability is within limitation of class lectures attended, due to commitment issues and the mode of study was full-research. The blocks can be used freely own discretion.
 
 **DESCRIPTOR PROTOTYPE SIGNIFICANCE SUMMARY:**
 
