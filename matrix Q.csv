@@ -1,0 +1,36 @@
+Species,Genus,H,L,P,E,Shape,Radiator,Colour
+S1,M1,7,7,0.22,2.795,pinched,Shiny,black
+S11,M1,7,7,0.22,2.795,pinched,Shiny,black
+S2,M2,9,9,0.27,3.3,pinched,Hairy,black
+S4,M3,6,7,0.205,2.51,mosquito,Hairy,yellow and black spots
+S7,M3,6,7,0.205,2.51,pinched,Shiny,black
+S8,M3,6,7,0.205,2.51,mosquito,Hairy,yellow and black spots
+S35,M3,6,7,0.205,2.51,,,
+S18,M4,7,8,0.21,3.03,pinched,Hairy,black
+S23,M5,5,3,0.29,3.1,pinched,Shiny,orange-dark
+S5,M6,6,6.2,0.225,2.7,pinched,Hairy,black
+S6,M6,6,6.2,0.225,2.7,pinched,Shiny,orange
+S25,M6,6,6.2,0.225,2.7,pinched,Hairy,black
+S27,M6,6,6.2,0.225,2.7,mosquito,Shiny,black
+S28,M6,6,6.2,0.225,2.7,mosquito,Shiny,orange
+S14,M7,6,8,0.27,3.16,pinched,Hairy,black
+S21,M7,6,8,0.27,3.16,mosquito,Shiny,black
+S9,M8,6,3,0.21,2.57,pinched,Shiny,orange
+S10,M8,6,3,0.21,2.57,pinched,Shiny,black
+S17,M8,6,3,0.21,2.57,pinched,Shiny,black
+S22,M8,6,3,0.21,2.57,mosquito,Shiny,orange-dark
+S29,M8,6,3,0.21,2.57,pinched,Shiny,orange
+S3,M9,5,3,0.164,2.256,mosquito,Shiny,yellow-transluscent
+S12,M9,5,3,0.164,2.256,mosquito,Shiny,yellow-transluscent
+S15,M9,5,3,0.164,2.256,pinched,Shiny,black
+S16,M9,5,3,0.164,2.256,pinched,Shiny,black
+S19,M9,5,3,0.164,2.256,pinched,Shiny,black
+S26,M9,5,3,0.164,2.256,pinched,Shiny,yellow-transluscent
+S30,M9,5,3,0.164,2.256,pinched,Shiny,yellow-transluscent
+S31,M9,5,3,0.164,2.256,pinched,Shiny,orange
+S32,M9,5,3,0.164,2.256,pinched,Shiny,yellow-transluscent
+S33,M9,5,3,0.164,2.256,pinched,Shiny,black
+S34,M9,5,3,0.164,2.256,,,
+S13,M10,7,4,0.41,2.1,pinched,Shiny,black
+S24,M11,5,3,0.12,2.05,,,
+S20,M12,7,8,0.114,2.14,pinched,Hairy,black
